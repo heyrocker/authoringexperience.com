@@ -6,28 +6,14 @@
     <description>Recent content in Blog on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Nov 2019 15:28:43 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://authoringexperience.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Awesome Blog Post</title>
-      <link>https://authoringexperience.com/blog/blog-post-2/</link>
-      <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
-      <guid>https://authoringexperience.com/blog/blog-post-2/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel&#xA;nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem,&#xA;nam voluptate in beatae.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Awesome Blog Post</title>
-      <link>https://authoringexperience.com/blog/blog-post-3/</link>
-      <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
-      <guid>https://authoringexperience.com/blog/blog-post-3/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel&#xA;nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem,&#xA;nam voluptate in beatae.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Awesome Blog Post</title>
+      <title>Welcome to Authoring Experience</title>
       <link>https://authoringexperience.com/blog/blog-post/</link>
-      <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://authoringexperience.com/blog/blog-post/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel&#xA;nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem,&#xA;nam voluptate in beatae.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hello and welcome to the new site authoringexperience.com. On its face, this is a site for my new book Designing Content Authoring Experiences, and I will probably be making some posts about the book, how it came to be, and the process of self-publishing it. However, for some time I have also wanted a place to be putting thoughts about trends in the industry, and thorny problems I&amp;rsquo;m working on. These could be big or small, broad or very focused. Hey I have thoughts about modern page builders! I also have thoughts about what widget to use in select lists for specific use cases and for specific groups of authors! I may also never write another post and this will be all you ever see here. Time will tell.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
