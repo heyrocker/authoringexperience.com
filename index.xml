@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/</link>
+    <link>//authoringexperience.com/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//authoringexperience.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>It&#39;s Launch Day!</title>
-      <link>http://localhost:1313/blog/release-day/</link>
+      <link>//authoringexperience.com/blog/release-day/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/release-day/</guid>
+      <guid>//authoringexperience.com/blog/release-day/</guid>
       <description>&lt;p&gt;It is finally here, today is the official release day for Designing Content Authoring Experiences!! It is hard to believe that the three year journey of this book is finally over. Now I get to start the three year journey of marketing!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to Authoring Experience</title>
-      <link>http://localhost:1313/blog/blog-post/</link>
+      <link>//authoringexperience.com/blog/blog-post/</link>
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/blog-post/</guid>
+      <guid>//authoringexperience.com/blog/blog-post/</guid>
       <description>&lt;p&gt;Hello and welcome to the new site authoringexperience.com. On its face, this is a site for my new book Designing Content Authoring Experiences. I will probably be making some posts about the book, how it came to be, the process of self-publishing it, and topics related to the CMS space in general. However, for some time I have also wanted a place to be putting thoughts about trends in the industry, thorny problems I&amp;rsquo;m working on, and self-reflections about general topics I care about. These could be big or small, broad or very focused. Hey I have thoughts about modern page builders! I also have thoughts about what widget to use in select lists. I also have thoughts about Survivor and navigating a world that seems bent on beating us down inch by inch, day by day, and year by year.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://authoringexperience.com/</loc>
+    <loc>//authoringexperience.com/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://authoringexperience.com/blog/blog-post-1/</loc>
+    <loc>//authoringexperience.com/blog/release-day/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://authoringexperience.com/blog/blog-post/</loc>
+    <loc>//authoringexperience.com/blog/blog-post/</loc>
     <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://authoringexperience.com/blog/</loc>
+    <loc>//authoringexperience.com/blog/</loc>
     <lastmod>2019-11-23T15:28:43+06:00</lastmod>
   </url><url>
-    <loc>https://authoringexperience.com/categories/</loc>
+    <loc>//authoringexperience.com/categories/</loc>
   </url><url>
-    <loc>https://authoringexperience.com/tags/</loc>
+    <loc>//authoringexperience.com/tags/</loc>
   </url>
 </urlset>
